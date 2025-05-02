@@ -1,0 +1,16 @@
+3.4 - API query data from MongoDB
+
+- Created connected sever 
+- Added packages 
+- Created gitignore file 
+- Created README file 
+- Created app index file 
+- Created .ENV
+- Created routes files, index, carRoutes, horsepowerRoutes 
+- Created controller files, carContoller, horsepowerController
+- Created Models files, cars, horsepowers, Validations 
+- Created CRUD collection 
+- Created first and Second collections 
+- Ran test on first collection
+- Created photo file for terminal error message I had trouble with 
+- Created Pagination and queries for both GET ALL Controllers 
